@@ -1,0 +1,10 @@
+html,body{
+    height:100%;
+    margin:0;
+    padding:0;
+}
+
+.gl-output{
+    height:100%;
+    background:rgb(250,250,250);
+}
